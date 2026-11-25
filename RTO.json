@@ -1,0 +1,111 @@
+{
+ "code": "M471C",
+ "connector": "RTO-144",
+ "type": "M471C Stereo Input Module",
+ "series": null,
+ "contacts": "22 contacts, 22 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 40 - St Pre-amp Layout.jpg",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 29 - Layout.jpg",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON RETURN FOR THE 1/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1979 - M471C - 14 - 4-3.jpg",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "OUTPUT FROM THE PREAMPLIFIER",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1985 - M471C - Stereo Input Module.pdf",
+   "page": 12
+  },
+  {
+   "pin": "21",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "COMMON RETURN FOR THE 1/-25 VOLT SUPPLIES",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1979 - M471C - 14 - 4-3.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 29 - Layout.jpg",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 26 - Layout.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M471C/M471C.rto144.json",
+  "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1979 - M471C - 14 - 4-3.jpg",
+  "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1985 - M471C - Stereo Input Module.pdf",
+  "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 26 - Layout.jpg",
+  "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 29 - Layout.jpg",
+  "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 40 - St Pre-amp Layout.jpg",
+  "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1.jpg"
+ ]
+}
