@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1985 - M471C - Stereo Input Module.pdf",
+ "page": 5,
+ "version": 1,
+ "trace": "_traces/30c8302eb47d1b6f-p5.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1416, 2000],
+  "mm": [305.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "5", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 2.4, 305.7, 431.8],
+ "outlines": {
+  "line": {"rings": 127, "straight": {"n": 796, "mm": 2710.0}, "curved": {"n": 187, "mm": 224.5}},
+  "text": {"rings": 49, "straight": {"n": 464, "mm": 559.5}, "curved": {"n": 112, "mm": 185.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [13.0, 411.3, 124.1, 418.2], "text": "WAAC-EECX systems LTC"},
+   {"mm": [131.1, 234.3, 159.1, 240.7], "text": "sECTION"},
+   {"mm": [127.8, 221.3, 144.4, 227.8], "text": "MA IN"},
+   {"mm": [146.8, 221.3, 169.0, 228.3], "text": "FRAME"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1416 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–306 mm across, 2–432 mm up",
+  "- **Outlines:** line 127 rings, 796 straight (2,710 mm) / 187 curved (224 mm); text 49 rings, 464 straight (560 mm) / 112 curved (186 mm)",
+  "- **Words (OCR):** 5 in 4 lines: WAAC-EECX systems LTC · sECTION · MA IN · FRAME"
+ ]
+}

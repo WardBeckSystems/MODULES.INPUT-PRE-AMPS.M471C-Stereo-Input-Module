@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1979 - M471C - Stereo Input Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/1d8b44b713927004-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1416, 2000],
+  "mm": [305.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.9, 2.8, 305.8, 415.4],
+ "outlines": {
+  "line": {"rings": 122, "straight": {"n": 1422, "mm": 3689.4}, "curved": {"n": 245, "mm": 351.9}},
+  "text": {"rings": 156, "straight": {"n": 1435, "mm": 1809.2}, "curved": {"n": 321, "mm": 477.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [29.1, 393.6, 68.2, 409.4], "text": "[VVB"},
+   {"mm": [102.8, 403.3, 120.9, 410.5], "text": "WA"},
+   {"mm": [159.8, 403.3, 206.8, 410.5], "text": "CK YST"},
+   {"mm": [240.5, 403.3, 263.2, 410.5], "text": "LTD."},
+   {"mm": [101.9, 398.1, 110.3, 402.2], "text": "am"},
+   {"mm": [120.9, 398.1, 141.6, 401.7], "text": "=\"\",gS"},
+   {"mm": [211.2, 398.1, 224.5, 401.7], "text": "ON TA"},
+   {"mm": [236.8, 397.9, 254.5, 402.2], "text": "'Vl-~ :lx"},
+   {"mm": [101.9, 391.6, 113.8, 396.4], "text": "~ELE"},
+   {"mm": [236.0, 391.6, 242.5, 396.4], "text": "3a"},
+   {"mm": [123.1, 239.6, 173.4, 251.4], "text": "M471C"},
+   {"mm": [100.0, 224.5, 199.3, 230.8], "text": "STEREO INPUT MODULE"},
+   {"mm": [192.8, 65.0, 238.6, 69.8], "text": "MA NUAL SSUE"},
+   {"mm": [242.5, 64.8, 245.7, 70.0], "text": "If"},
+   {"mm": [260.8, 52.5, 279.8, 60.6], "text": "ps"},
+   {"mm": [193.0, 52.0, 200.4, 56.6], "text": "MA"},
+   {"mm": [209.6, 52.0, 221.7, 56.6], "text": "10;66"},
+   {"mm": [250.4, 41.9, 270.3, 52.4], "text": "BS"},
+   {"mm": [229.9, 21.6, 246.8, 28.1], "text": "tp"},
+   {"mm": [223.5, 14.9, 242.5, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1416 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–306 mm across, 3–415 mm up",
+  "- **Outlines:** line 122 rings, 1,422 straight (3,689 mm) / 245 curved (352 mm); text 156 rings, 1,435 straight (1,809 mm) / 321 curved (477 mm)",
+  "- **Words (OCR):** 27 in 20 lines: [VVB · WA · CK YST · LTD. · am · =\"\",gS · ON TA · 'Vl-~ :lx · ~ELE · 3a · M471C · STEREO INPUT MODULE"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1979 - M471C - Stereo Input Module.pdf",
+ "page": 30,
+ "version": 1,
+ "trace": "_traces/1d8b44b713927004-p30.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "30", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.7, 0.0, 307.7, 419.1],
+ "outlines": {
+  "line": {"rings": 168, "straight": {"n": 1525, "mm": 3662.1}, "curved": {"n": 303, "mm": 423.7}},
+  "text": {"rings": 62, "straight": {"n": 364, "mm": 437.9}, "curved": {"n": 69, "mm": 107.0}}
+ },
+ "circles": [{"c": [110.4, 222.8], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [16.6, 412.2, 41.0, 417.4], "text": "WA i=lD"},
+   {"mm": [56.8, 412.2, 67.1, 417.4], "text": "CK"},
+   {"mm": [81.2, 412.2, 103.0, 417.4], "text": "STEM"},
+   {"mm": [116.8, 412.2, 126.7, 417.4], "text": "TD"},
+   {"mm": [134.3, 232.3, 169.0, 237.3], "text": "SEC TION II"},
+   {"mm": [104.5, 219.1, 200.4, 224.2], "text": "MOOULE AND SUBASSEMBL IES"},
+   {"mm": [262.5, 52.7, 281.7, 61.1], "text": "ps"},
+   {"mm": [252.2, 42.1, 272.2, 52.7], "text": "BS"},
+   {"mm": [231.4, 21.6, 248.5, 28.1], "text": "tp"},
+   {"mm": [225.0, 15.1, 244.2, 21.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–308 mm across, 0–419 mm up",
+  "- **Outlines:** line 168 rings, 1,525 straight (3,662 mm) / 303 curved (424 mm); text 62 rings, 364 straight (438 mm) / 69 curved (107 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (110.4, 222.8)",
+  "- **Words (OCR):** 16 in 10 lines: WA i=lD · CK · STEM · TD · SEC TION II · MOOULE AND SUBASSEMBL IES · ps · BS · tp · ht"
+ ]
+}

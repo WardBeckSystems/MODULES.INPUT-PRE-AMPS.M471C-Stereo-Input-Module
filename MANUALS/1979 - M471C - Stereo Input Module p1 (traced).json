@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1979 - M471C - Stereo Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/1d8b44b713927004-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1416, 2000],
+  "mm": [305.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.2, 305.8, 431.8],
+ "outlines": {
+  "line": {"rings": 59, "straight": {"n": 2143, "mm": 7631.4}, "curved": {"n": 191, "mm": 310.3}},
+  "text": {"rings": 33, "straight": {"n": 637, "mm": 2361.3}, "curved": {"n": 63, "mm": 112.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [219.8, 131.5, 237.3, 134.5], "w": 17.5, "h": 3.0, "from": "ring", "words": ["VVSS"]},
+  {"mm": [219.8, 53.1, 236.8, 56.1], "w": 17.1, "h": 3.0, "from": "ring", "words": ["VVSS"]},
+  {"mm": [219.6, 13.8, 236.8, 17.1], "w": 17.3, "h": 3.2, "from": "ring", "words": ["VVSS"]}
+ ],
+ "text": {
+  "words": 18,
+  "lines": [
+   {"mm": [180.1, 395.5, 270.5, 421.7], "text": "vvss"},
+   {"mm": [179.8, 356.9, 270.3, 383.0], "text": "vvss"},
+   {"mm": [179.8, 317.2, 270.3, 343.3], "text": "vvss"},
+   {"mm": [179.4, 278.5, 269.9, 304.7], "text": "vvss"},
+   {"mm": [179.4, 238.8, 269.4, 264.9], "text": "vvss"},
+   {"mm": [179.4, 199.7, 269.4, 225.9], "text": "vvss"},
+   {"mm": [178.5, 160.4, 269.0, 186.6], "text": "vvss"},
+   {"mm": [178.8, 122.8, 268.8, 142.3], "text": "VVSS"},
+   {"mm": [211.4, 101.7, 234.7, 107.7], "text": "1H71C"},
+   {"mm": [182.9, 94.8, 264.7, 101.0], "text": "aTEREo IIIPUT ItDDULE"},
+   {"mm": [177.9, 44.9, 279.8, 64.1], "text": "VVSS ps"},
+   {"mm": [250.4, 41.9, 270.3, 52.4], "text": "BS"},
+   {"mm": [177.5, 5.6, 267.5, 25.0], "text": "VVSS"},
+   {"mm": [229.9, 21.6, 246.8, 28.1], "text": "tp"},
+   {"mm": [223.5, 14.9, 242.5, 21.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1416 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–306 mm across, 0–432 mm up",
+  "- **Outlines:** line 59 rings, 2,143 straight (7,631 mm) / 191 curved (310 mm); text 33 rings, 637 straight (2,361 mm) / 63 curved (113 mm)",
+  "- **Closed boxes:** 3; named: VVSS; VVSS; VVSS",
+  "- **Words (OCR):** 18 in 15 lines: vvss · vvss · vvss · vvss · vvss · vvss · vvss · VVSS · 1H71C · aTEREo IIIPUT ItDDULE · VVSS ps · BS"
+ ]
+}

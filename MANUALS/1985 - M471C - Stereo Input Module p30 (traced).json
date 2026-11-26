@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1985 - M471C - Stereo Input Module.pdf",
+ "page": 30,
+ "version": 1,
+ "trace": "_traces/30c8302eb47d1b6f-p30.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "30", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.7, -0.2, 307.7, 419.1],
+ "outlines": {
+  "line": {"rings": 112, "straight": {"n": 971, "mm": 2875.8}, "curved": {"n": 202, "mm": 239.6}},
+  "text": {"rings": 71, "straight": {"n": 617, "mm": 789.9}, "curved": {"n": 136, "mm": 232.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [15.1, 411.9, 127.4, 418.9], "text": "WAAD-BeCK SYSTeMS LTD"},
+   {"mm": [132.8, 233.0, 160.8, 239.4], "text": "SECTION"},
+   {"mm": [102.8, 219.8, 200.8, 226.5], "text": "MODULES AND SUBASSEMBL IES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–308 mm across, 0–419 mm up",
+  "- **Outlines:** line 112 rings, 971 straight (2,876 mm) / 202 curved (240 mm); text 71 rings, 617 straight (790 mm) / 136 curved (232 mm)",
+  "- **Words (OCR):** 6 in 3 lines: WAAD-BeCK SYSTeMS LTD · SECTION · MODULES AND SUBASSEMBL IES"
+ ]
+}

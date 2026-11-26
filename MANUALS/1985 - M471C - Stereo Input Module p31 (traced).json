@@ -1,0 +1,51 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1985 - M471C - Stereo Input Module.pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/30c8302eb47d1b6f-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 307.8, 431.4],
+ "outlines": {
+  "line": {"rings": 54, "straight": {"n": 716, "mm": 2889.9}, "curved": {"n": 127, "mm": 167.2}},
+  "text": {"rings": 91, "straight": {"n": 827, "mm": 963.4}, "curved": {"n": 203, "mm": 319.7}},
+  "tb": {"rings": 56, "straight": {"n": 108, "mm": 70.3}, "curved": {"n": 60, "mm": 56.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [14.7, 409.8, 126.7, 416.7], "text": "WAAD-=Eck systems LTD'"},
+   {"mm": [110.1, 228.4, 220.2, 235.4], "text": "STEREO PREAMPLIF IER ASSEMBLY"},
+   {"mm": [79.5, 228.9, 108.2, 235.3], "text": "5A14-075"},
+   {"mm": [210.5, 55.1, 228.9, 61.5], "text": "Issue"},
+   {"mm": [209.4, 47.3, 241.4, 55.2], "text": "May 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [8.4, 46.4, 235.0, 425.3],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-=Eck systems LTD'", "STEREO PREAMPLIF IER ASSEMBLY", "5A14-075", "Issue", "May 1985"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–308 mm across, 0–431 mm up",
+  "- **Outlines:** line 54 rings, 716 straight (2,890 mm) / 127 curved (167 mm); text 91 rings, 827 straight (963 mm) / 203 curved (320 mm); tb 56 rings, 108 straight (70.3 mm) / 60 curved (56.4 mm)",
+  "- **Words (OCR):** 9 in 5 lines: WAAD-=Eck systems LTD' · STEREO PREAMPLIF IER ASSEMBLY · 5A14-075 · Issue · May 1985",
+  "- **Title block:** (8, 46)–(235, 425) mm: WAAD-=Eck systems LTD' · STEREO PREAMPLIF IER ASSEMBLY · 5A14-075 · Issue · May 1985"
+ ]
+}

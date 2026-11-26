@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1979 - M471C - Stereo Input Module.pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/1d8b44b713927004-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1425, 2000],
+  "mm": [307.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 307.7, 431.4],
+ "outlines": {
+  "line": {"rings": 137, "straight": {"n": 1162, "mm": 3382.0}, "curved": {"n": 261, "mm": 347.2}},
+  "text": {"rings": 97, "straight": {"n": 818, "mm": 968.7}, "curved": {"n": 191, "mm": 285.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [16.6, 410.0, 103.8, 415.3], "text": "WAFlO-EcCK SYSTEM"},
+   {"mm": [113.6, 410.0, 127.2, 415.3], "text": "LTO"},
+   {"mm": [80.7, 228.4, 220.4, 233.9], "text": "5,>,1.-075 STE REO PREAMPLIFI ER AS..:OC:M6LY"},
+   {"mm": [211.6, 54.6, 227.3, 59.9], "text": "Issue"},
+   {"mm": [262.5, 52.7, 281.7, 61.1], "text": "ps"},
+   {"mm": [210.5, 47.5, 218.5, 52.5], "text": "MOl"},
+   {"mm": [227.8, 47.5, 236.2, 52.5], "text": "196"},
+   {"mm": [252.2, 42.1, 272.2, 52.7], "text": "BS"},
+   {"mm": [231.4, 21.6, 248.5, 28.1], "text": "tp"},
+   {"mm": [225.0, 15.1, 244.2, 21.6], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 308 × 432 mm, 1425 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–308 mm across, 0–431 mm up",
+  "- **Outlines:** line 137 rings, 1,162 straight (3,382 mm) / 261 curved (347 mm); text 97 rings, 818 straight (969 mm) / 191 curved (286 mm)",
+  "- **Words (OCR):** 16 in 10 lines: WAFlO-EcCK SYSTEM · LTO · 5,>,1.-075 STE REO PREAMPLIFI ER AS..:OC:M6LY · Issue · ps · MOl · 196 · BS · tp · ht"
+ ]
+}

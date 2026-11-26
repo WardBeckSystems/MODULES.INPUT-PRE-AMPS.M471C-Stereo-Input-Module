@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M471C/MANUALS/1985 - M471C - Stereo Input Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/30c8302eb47d1b6f-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1416, 2000],
+  "mm": [305.7, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "40"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.9, 2.8, 305.9, 426.2],
+ "outlines": {
+  "line": {"rings": 70, "straight": {"n": 889, "mm": 3135.1}, "curved": {"n": 156, "mm": 201.6}},
+  "text": {"rings": 136, "straight": {"n": 1449, "mm": 1997.2}, "curved": {"n": 319, "mm": 517.3}},
+  "tb": {"rings": 70, "straight": {"n": 344, "mm": 310.1}, "curved": {"n": 117, "mm": 150.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [101.9, 402.7, 262.3, 413.0], "text": "WARD-EECK SYSTEMS LTD"},
+   {"mm": [34.5, 394.0, 164.9, 408.7], "text": "WES 841 PPOGRESS AVENUF"},
+   {"mm": [167.1, 397.7, 234.0, 403.4], "text": "SCAABDHOUGH ONTAAIO"},
+   {"mm": [101.3, 392.7, 118.5, 398.0], "text": "TELEX"},
+   {"mm": [122.0, 239.9, 175.5, 254.5], "text": "M471C"},
+   {"mm": [98.7, 223.5, 162.4, 232.1], "text": "STEREO INPUT"},
+   {"mm": [165.2, 224.1, 200.8, 232.3], "text": "MODULE"},
+   {"mm": [191.5, 64.8, 239.0, 71.7], "text": "MANUAL ISSUE"},
+   {"mm": [192.2, 51.8, 222.4, 58.3], "text": "MAY 1986"}
+  ]
+ },
+ "title_block": {
+  "mm": [95.9, 56.1, 245.2, 421.5],
+  "from": "title-block words (training set)",
+  "text": ["WARD-EECK SYSTEMS LTD", "WES 841 PPOGRESS AVENUF", "SCAABDHOUGH ONTAAIO", "TELEX", "M471C", "STEREO INPUT", "MODULE", "MANUAL ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 306 × 432 mm, 1416 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–306 mm across, 3–426 mm up",
+  "- **Outlines:** line 70 rings, 889 straight (3,135 mm) / 156 curved (202 mm); text 136 rings, 1,449 straight (1,997 mm) / 319 curved (517 mm); tb 70 rings, 344 straight (310 mm) / 117 curved (151 mm)",
+  "- **Words (OCR):** 15 in 9 lines: WARD-EECK SYSTEMS LTD · WES 841 PPOGRESS AVENUF · SCAABDHOUGH ONTAAIO · TELEX · M471C · STEREO INPUT · MODULE · MANUAL ISSUE · MAY 1986",
+  "- **Title block:** (96, 56)–(245, 422) mm: WARD-EECK SYSTEMS LTD · WES 841 PPOGRESS AVENUF · SCAABDHOUGH ONTAAIO · TELEX · M471C · STEREO INPUT · MODULE · MANUAL ISSUE"
+ ]
+}
