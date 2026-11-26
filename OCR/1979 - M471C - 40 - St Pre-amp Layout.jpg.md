@@ -11,6 +11,18 @@ Wiki page: [M471C](../../../../PAGES/M471C.md)
 - **Size:** 286,812 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 342 × 432 mm, 1537 × 1943 px traced (0.222 mm/px)
+- **Ink extent:** 9–336 mm across, 1–383 mm up
+- **Outlines:** line 416 rings, 5,456 straight (8,761 mm) / 1,473 curved (1,562 mm); text 908 rings, 7,131 straight (6,884 mm) / 2,415 curved (2,652 mm); tb 420 rings, 4,339 straight (5,088 mm) / 1,268 curved (1,353 mm)
+- **Circles and arcs:** 6 circles, 0 arcs; largest r 7.4 @ (80.9, 178.2), r 6.6 @ (108.2, 151.0), r 3.6 @ (59.3, 174.5), r 3.6 @ (32.6, 174.0)
+- **Closed boxes:** 15
+- **Words (OCR):** 133 in 118 lines: HP FILTR · 150 HZ 75 HZ · HCDE · S4S · 5V4 · SENSITIVITY · Svz · SVI · #CF _ 4CF _ · Cht_QA · HBS 11-131 · Vbs V-152
+- **Title block:** (122, 45)–(342, 281) mm: RIz · WBS · 4-C15 · RLb · CANADA · ISSUE · RI9 · ~r4652 · R4gEek · Rzo · 347 · 340. · R2i · 98 · c8 · (C1o · 68/6 · R25 · aso · R2s · C22 68/6 · EK32 · 88 · 140/25 · R53 · J0/251 · 40/25 · 40/251 · C1
+
+Every curve, box, word and wire group: [1979 - M471C - 40 - St Pre-amp Layout (traced).json](../SCHEMATICS/1979%20-%20M471C%20-%2040%20-%20St%20Pre-amp%20Layout%20%28traced%29.json) (the CAD file: `1979 - M471C - 40 - St Pre-amp Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

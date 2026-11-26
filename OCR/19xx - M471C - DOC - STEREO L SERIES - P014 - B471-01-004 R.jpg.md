@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (207, 51)–(332, 76) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 142 connected wire groups from 324 runs; labelled ends: 329 mm → PRE /POST, PRE /Post; 106 mm → BALANCE, INSERT; 76 mm → SOL; 50 mm → PRE /POST, PRE /Post; 42 mm → BOOSTER, AMPLIF IER
 
-Every curve, box, word and wire group: [19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R (traced).json](../SCHEMATICS/19xx%20-%20M471C%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P014%20-%20B471-01-004%20R%20(traced).json) (the CAD file: `19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R (traced).json](../SCHEMATICS/19xx%20-%20M471C%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P014%20-%20B471-01-004%20R%20%28traced%29.json) (the CAD file: `19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R (traced).dxf`).
 
 ## Full text
 

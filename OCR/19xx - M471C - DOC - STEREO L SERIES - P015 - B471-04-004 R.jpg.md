@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 30 in 28 lines: WBS · Matic · MODE · 12 · PGW · PEAK · SENS · PRE · PST · AUX · PRE · AUX
 - **Title block:** (99, 50)–(332, 415) mm: WBS · Matic · MODE · 12 · PGW · PEAK · SENS · PRE · PST · AUX · PRE · AUX · PRE · PST · AUX · PRE · PST · AUX · 16 · BAL · WBS · WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R (traced).json](../MECHANICAL/19xx%20-%20M471C%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P015%20-%20B471-04-004%20R%20(traced).json) (the CAD file: `19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R (traced).json](../MECHANICAL/19xx%20-%20M471C%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P015%20-%20B471-04-004%20R%20%28traced%29.json) (the CAD file: `19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R (traced).dxf`).
 
 ## Full text
 

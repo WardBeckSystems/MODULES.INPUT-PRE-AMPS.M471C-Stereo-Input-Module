@@ -11,6 +11,20 @@ Wiki page: [M471C](../../../../PAGES/M471C.md)
 - **Size:** 362,342 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 310 mm, 2000 × 1434 px traced (0.216 mm/px)
+- **Ink extent:** 14–430 mm across, 4–295 mm up
+- **Outlines:** line 1,479 rings, 11,256 straight (13,600 mm) / 2,874 curved (3,356 mm); text 249 rings, 1,623 straight (1,577 mm) / 508 curved (661 mm); tb 2 rings, 50 straight (114 mm) / 4 curved (7.8 mm)
+- **Centre lines:** 10,983 paths (245 closed); straight 9,244 mm, curved 175 mm; horizontal 2,779 mm, vertical 2,272 mm, diagonal 4,193 mm
+- **Circles and arcs:** 5 circles, 61 arcs; largest r 3.0 @ (227.6, 122.1), r 0.9 @ (103.4, 260.1), r 0.8 @ (212.9, 217.9), r 0.8 @ (209.3, 145.0)
+- **Dots (junctions):** 1
+- **Words (OCR):** 34 in 32 lines: Ficter · 88_ · 44-6 · I0/25 · Lest · 'J3/10 · I0/25 · 10/25 · Sensutivity · Rickt · Lod = · EI
+- **Title block:** (330, 31)–(432, 49) mm: WBS WARD-BECK SYSTEMS
+- **Wiring (first pass):** 127 connected wire groups from 908 runs; labelled ends: 168 mm → 'J3/10; 104 mm → 47/15; 97 mm → 365, 0 i00; 81 mm → 47/15; 58 mm → 365, 0 i00
+
+Every curve, box, word and wire group: [1979 - M471C - 39 - St Pre-amp Schematic (traced).json](../SCHEMATICS/1979%20-%20M471C%20-%2039%20-%20St%20Pre-amp%20Schematic%20%28traced%29.json) (the CAD file: `1979 - M471C - 39 - St Pre-amp Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 5 words corrected)

@@ -34,7 +34,7 @@ Schematic of the input and equalizer wiring for K2042S consoles with M-Matic ste
 - **Title block:** (327, 30)–(432, 49) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 75 connected wire groups from 385 runs; labelled ends: 2150 mm → 90B2, (33), 19861, 502 2; 104 mm → +25v, ~Zs~, 201, 18; 47 mm → TB /, 37.78; 44 mm → S0B; 44 mm → Hoo To
 
-Every curve, box, word and wire group: [19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%202042-02-001%20-%20K2042S%201%20AND%20K2042S%202%20INPUT%20AND%20EQUALIZER%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%202042-02-001%20-%20K2042S%201%20AND%20K2042S%202%20INPUT%20AND%20EQUALIZER%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -11,6 +11,21 @@ Wiki page: [M471C](../../../../PAGES/M471C.md)
 - **Size:** 310,587 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** functional, size B (assumed) 432 × 273 mm, 2000 × 1265 px traced (0.216 mm/px)
+- **Ink extent:** 8–424 mm across, 4–257 mm up
+- **Outlines:** line 805 rings, 6,707 straight (11,390 mm) / 1,176 curved (1,402 mm); text 149 rings, 915 straight (946 mm) / 258 curved (346 mm); tb 2 rings, 47 straight (107 mm) / 1 curved (2.6 mm)
+- **Centre lines:** 6,002 paths (116 closed); straight 6,404 mm, curved 96.7 mm; horizontal 2,412 mm, vertical 1,786 mm, diagonal 2,207 mm
+- **Circles and arcs:** 5 circles, 15 arcs; largest r 2.7 @ (199.4, 90.8), r 2.0 @ (90.4, 176.1), r 2.0 @ (52.3, 176.1), r 2.0 @ (168.5, 139.0)
+- **Closed boxes:** 13
+- **Dots (junctions):** 2
+- **Words (OCR):** 16 in 16 lines: 43 · bcoster · List · CONTACI · MuTC · CC TRC · Dutpmtt · Msta Ctl Co" · PPE ?05 · WBS · WARD-BECK SYSTEMS · M471C
+- **Title block:** (336, 27)–(432, 44) mm: WBS · WARD-BECK SYSTEMS
+- **Wiring (first pass):** 196 connected wire groups from 595 runs, 2 dotted junctions; labelled ends: 262 mm → PPE ?05; 34 mm → PPE ?05; 29 mm → bcoster; 29 mm → List, 43; 10 mm → CONTACI
+
+Every curve, box, word and wire group: [1979 - M471C - 27 - Functional Diagram (traced).json](../SCHEMATICS/1979%20-%20M471C%20-%2027%20-%20Functional%20Diagram%20%28traced%29.json) (the CAD file: `1979 - M471C - 27 - Functional Diagram (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 8 words corrected)

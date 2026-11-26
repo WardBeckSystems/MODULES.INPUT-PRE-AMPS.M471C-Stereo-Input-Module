@@ -15,6 +15,20 @@ Wiki page: [M471C](../../../../PAGES/M471C.md)
 
 - **1979** (labelled): `ISS.1 10/79` — …? 08 Ch-SSIS M471C STEREO INPUT MODULE SCHEMATIC 471-02-003 ISS.1 10/79…
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 290 mm, 2000 × 1342 px traced (0.216 mm/px)
+- **Ink extent:** 4–427 mm across, 6–285 mm up
+- **Outlines:** line 2,825 rings, 22,107 straight (29,438 mm) / 4,837 curved (5,505 mm); text 100 rings, 720 straight (770 mm) / 178 curved (246 mm); tb 2 rings, 39 straight (104 mm) / 0 curved (0.0 mm)
+- **Centre lines:** 18,533 paths (592 closed); straight 17,491 mm, curved 213 mm; horizontal 6,432 mm, vertical 5,000 mm, diagonal 6,058 mm
+- **Circles and arcs:** 9 circles, 24 arcs; largest r 3.4 @ (176.5, 101.8), r 3.3 @ (188.0, 82.4), r 3.2 @ (57.1, 45.9), r 3.2 @ (58.7, 70.6)
+- **Closed boxes:** 29
+- **Words (OCR):** 11 in 10 lines: 74 · 63 · Wico · Richi · WBS WARD-BECK SYSTEMS · M471C · STEREO INPUT MODULE · SCHEMATIC · 471-02-003 · ISS_
+- **Title block:** (342, 28)–(432, 44) mm: WBS WARD-BECK SYSTEMS
+- **Wiring (first pass):** 276 connected wire groups from 2,101 runs; labelled ends: 116 mm → Wico; 78 mm → 63; 21 mm → 74; 12 mm → 74; 5 mm → Wico
+
+Every curve, box, word and wire group: [1979 - M471C - 28 - Schematic (traced).json](../SCHEMATICS/1979%20-%20M471C%20-%2028%20-%20Schematic%20%28traced%29.json) (the CAD file: `1979 - M471C - 28 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 12 words corrected)
