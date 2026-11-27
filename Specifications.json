@@ -1,0 +1,220 @@
+{
+ "module": "M471C",
+ "title": "ML7IC STEREO INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1985 - M471C - Stereo Input Module.pdf",
+  "page": 6
+ },
+ "ocr_quality": 0.88,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "-10 to +i0 dBm (ref. 600 onm source)",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.25 dB from 20 Hz L0 20 kHz",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Greater than 75 to 80 dB signal to noise radio fcr input sensitivities of -10 [0 -10 dBm.",
+   "quantities": [
+    {
+     "from": 75,
+     "to": 80,
+     "unit": "dB"
+    },
+    {
+     "from": 0,
+     "to": 10,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.257 Trom 30 Hz to 20 klz 4[ +24 dBm uuiput levels Or less. Less than 0.057 at kHz at +24 dBm output.",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms Or less balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "30 000 ohms Or greater.",
+   "quantities": [
+    {
+     "value": 0,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms 9L inser[ points",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "600 uhms balanced: (at insertion Point)"
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "dBm nominal +26 dBm maximum,",
+   "quantities": [
+    {
+     "value": 26,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "60 dB",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number Or\" numndered Terminals of the input pair i5 in phase with the similar terminals ot the output Pair."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/225 volts dc, 100 mA nominal, 185 mA maximum. +24 volts Cc, 20 IIA",
+   "quantities": [
+    {
+     "value": 225,
+     "unit": "volts dc"
+    },
+    {
+     "value": 100,
+     "unit": "mA"
+    },
+    {
+     "value": 185,
+     "unit": "mA"
+    },
+    {
+     "value": 24,
+     "unit": "volts"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "to 50 degrees Celsius.",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "60\" wide 14.15\" high 6:50\" deep (41 MM 360 mm 165 mm",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "\""
+    },
+    {
+     "value": 14.15,
+     "unit": "\""
+    },
+    {
+     "value": 50,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "MM"
+    },
+    {
+     "value": 360,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "02 (0.992 kg) net.",
+   "quantities": [
+    {
+     "value": 0.992,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}

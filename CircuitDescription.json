@@ -1,0 +1,20 @@
+{
+ "module": "M471C",
+ "source": {
+  "file": "MANUALS/1979 - M471C - 14 - 4-3.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.85,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "ML?1c STEREO INPUT MODULE Tne auxiliary [Tix bus outputs 4ppear on pins through M. pins tbrouyn 12 and ProgramiPeak Mon tor",
+    "colour LED DS3 gives normal program evel indication (iluminales green and peak level indication (illuminates red) Thc sun the lett and right channel audio detected the preface insert point DY 4n averaging and peak detecting circuit. compared against ca ibrated reference Dy the dua comparator U10. CR12, CR13, R1C6 R10? and C50 form the averaging level detector U10 and 03 drive the green normal LED section DS3. This occurs when tne pr0g;am level tne prefade inserl point Above dBm (it should be noted that dB level difference exists between steady state tone and complex program material) CRIO, CRii RIO3 ard C49 form the peak level detector circuit_ UIQA and 01 drive the red over Ioa LED ind cator DS3 When the red. overload LED Muminates 02 turned off S0 tnat thc green normal LED indicator extinguished) The threshold Switch poinl the U10 comparalor determined by the voltage divider R105 RIO8, R109 and trim control RIO4 properly adjust R104 apply kHz test signa sufficient level give dBm eve the prefade insert point. Adjust RI04 Peak Overload Threshold control the green LED DS3 just uminates Dropping the input signal evel by dB should result In the 4reen LED extinguishing Raise the test signal level until the red LED iluminales (the green should extinguish) The insert signal Level should be between +22 and +2h dBm Power Supply Decoupling The +/-25 volt supply voltage appearing P2 pins and 19 regulated down +/-18 volts by an active decoupler consisting 04 through 09 with thei associated components 08 and 09 are current imit sensors for the positive and negative voltage supply rails. The common return for the 1/-25 volt supplies main chassis frame connection P2 pin 22 _ P2 pin 20."
+   ]
+  }
+ ]
+}

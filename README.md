@@ -13,6 +13,46 @@ Ward-Beck Systems M471C, 1979|12. Wiki page: [M471C on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 56 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1985 - M471C - Stereo Input Module.pdf](MANUALS/1985%20-%20M471C%20-%20Stereo%20Input%20Module.pdf) page 6 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivity** | -10 to +i0 dBm (ref. 600 onm source) |
+| **Frequency response** | +/-0.25 dB from 20 Hz L0 20 kHz |
+| **Noise** | Greater than 75 to 80 dB signal to noise radio fcr input sensitivities of -10 [0 -10 dBm. |
+| **Harmonic distortion** | Less than 0.257 Trom 30 Hz to 20 klz 4[ +24 dBm uuiput levels Or less. Less than 0.057 at kHz at +24 dBm output. |
+| **Source impedance** | 600 ohms Or less balanced |
+| **Input impedances** | 30 000 ohms Or greater. |
+| **Output impedances** | Less than 100 ohms 9L inser[ points |
+| **Load impedances** | 600 uhms balanced: (at insertion Point) |
+| **Output levels** | dBm nominal +26 dBm maximum, |
+| **Channel separation** | 60 dB |
+| **Phasing** | Low number Or&quot; numndered Terminals of the input pair i5 in phase with the similar terminals ot the output Pair. |
+| **Power requirements** | +/225 volts dc, 100 mA nominal, 185 mA maximum. +24 volts Cc, 20 IIA |
+| **Ambient temperature** | to 50 degrees Celsius. |
+| **Dimensions** | 60&quot; wide 14.15&quot; high 6:50&quot; deep (41 MM 360 mm 165 mm |
+| **Weight** | 02 (0.992 kg) net. |
+
+## Circuit description
+
+From [1979 - M471C - 14 - 4-3.jpg](MANUALS/1979%20-%20M471C%20-%2014%20-%204-3.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+ML?1c STEREO INPUT MODULE Tne auxiliary [Tix bus outputs 4ppear on pins through M. pins tbrouyn 12 and ProgramiPeak Mon tor
+
+colour LED DS3 gives normal program evel indication (iluminales green and peak level indication (illuminates red) Thc sun the lett and right channel audio detected the preface insert point DY 4n averaging and peak detecting circuit. compared against ca ibrated reference Dy the dua comparator U10. CR12, CR13, R1C6 R10? and C50 form the averaging level detector U10 and 03 drive the green normal LED section DS3. This occurs when tne pr0g;am level tne prefade inserl point Above dBm (it should be noted that dB level difference exists between steady state tone and complex program material) CRIO, CRii RIO3 ard C49 form the peak level detector circuit_ UIQA and 01 drive the red over Ioa LED ind cator DS3 When the red. overload LED Muminates 02 turned off S0 tnat thc green normal LED indicator extinguished) The threshold Switch poinl the U10 comparalor determined by the voltage divider R105 RIO8, R109 and trim control RIO4 properly adjust R104 apply kHz test signa sufficient level give dBm eve the prefade insert point. Adjust RI04 Peak Overload Threshold control the green LED DS3 just uminates Dropping the input signal evel by dB should result In the 4reen LED extinguishing Raise the test signal level until the red LED iluminales (the green should extinguish) The insert signal Level should be between +22 and +2h dBm Power Supply Decoupling The +/-25 volt supply voltage appearing P2 pins and 19 regulated down +/-18 volts by an active decoupler consisting 04 through 09 with thei associated components 08 and 09 are current imit sensors for the positive and negative voltage supply rails. The common return for the 1/-25 volt supplies main chassis frame connection P2 pin 22 _ P2 pin 20.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
