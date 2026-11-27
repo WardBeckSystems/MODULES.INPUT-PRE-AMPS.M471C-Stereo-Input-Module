@@ -61,6 +61,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNUNPUExIMG90Q0U/view?resourcekey=0-HOpYP-eV-VQhWZbmFsoLSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNUNPUExIMG90Q0U&resourcekey=0-HOpYP-eV-VQhWZbmFsoLSw" width="240" alt="19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R.jpg"></a><br><sub>19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M471C.stl`](MECHANICAL/M471C.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M471C)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 60" wide 14.15" high 6:50" deep (41 MM 360 mm 165 mm)
+- **From the drawing:** 26 holes and cut-outs, 2 knobs (front panel: `MECHANICAL/M471C - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M471C.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
