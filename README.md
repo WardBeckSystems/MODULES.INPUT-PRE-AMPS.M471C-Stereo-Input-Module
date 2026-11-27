@@ -1,17 +1,17 @@
-# M471C · Input Pre Amps
+# M471C Stereo Input Module · Input Pre Amps
 
 Ward-Beck Systems M471C, 1979|12. Wiki page: [M471C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M471C.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 15 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 3 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 285 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 56 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 286 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 13 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 55 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -58,28 +58,20 @@ colour LED DS3 gives normal program evel indication (iluminales green and peak l
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNUNPUExIMG90Q0U/view?resourcekey=0-HOpYP-eV-VQhWZbmFsoLSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNUNPUExIMG90Q0U&resourcekey=0-HOpYP-eV-VQhWZbmFsoLSw" width="240" alt="19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R.jpg"></a><br><sub>19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNUNPUExIMG90Q0U/view?resourcekey=0-HOpYP-eV-VQhWZbmFsoLSw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNUNPUExIMG90Q0U&resourcekey=0-HOpYP-eV-VQhWZbmFsoLSw" width="240" alt="19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R.jpg"></a><br><sub>19xx - M471C - DOC - STEREO L SERIES - P015 - B471-04-004 R · <a href="MECHANICAL/19xx%20-%20M471C%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P015%20-%20B471-04-004%20R%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M471C.stl`](MECHANICAL/M471C.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M471C)
-
-- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 60" wide 14.15" high 6:50" deep (41 MM 360 mm 165 mm)
-- **From the drawing:** 26 holes and cut-outs, 2 knobs (front panel: `MECHANICAL/M471C - front panel.svg`)
-- Made by `tools/module_models.py` (→ `MECHANICAL/M471C.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSlFJRjBwUk1EN3c/view?resourcekey=0-ZwyYC2CJPVB5xryQYQp4Mg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSlFJRjBwUk1EN3c&resourcekey=0-ZwyYC2CJPVB5xryQYQp4Mg" width="240" alt="1979 - M471C - 26 - Layout.jpg"></a><br><sub>1979|12 · 26 - Layout</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXRYdDl2QTlWQzg/view?resourcekey=0-hBFZcT1kR5SPdYShpjE-bQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXRYdDl2QTlWQzg&resourcekey=0-hBFZcT1kR5SPdYShpjE-bQ" width="240" alt="1979 - M471C - 27 - Functional Diagram.jpg"></a><br><sub>1979|12 · 27 - Functional Diagram</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU3hhQ0hBMk5jajQ/view?resourcekey=0-xcmWCFFKtHmIJ38JbR0-Ew" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU3hhQ0hBMk5jajQ&resourcekey=0-xcmWCFFKtHmIJ38JbR0-Ew" width="240" alt="1979 - M471C - 28 - Schematic.jpg"></a><br><sub>1979|12 · 28 - Schematic</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZU9VSm5sUXRuU1E/view?resourcekey=0-lja9k5Grrat-np3DxhkuaA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZU9VSm5sUXRuU1E&resourcekey=0-lja9k5Grrat-np3DxhkuaA" width="240" alt="1979 - M471C - 29 - Layout.jpg"></a><br><sub>1979|12 · 29 - Layout</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWkhRX0xtbkV2b3c/view?resourcekey=0-RUgPwNTNLdlN0VkUujgKbQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWkhRX0xtbkV2b3c&resourcekey=0-RUgPwNTNLdlN0VkUujgKbQ" width="240" alt="1979 - M471C - 39 - St Pre-amp Schematic.jpg"></a><br><sub>1979|12 · 39 - St Pre-amp Schematic</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZ3U0YXd1LTItZGc/view?resourcekey=0-Hro6HqnD_uxsefq_L9x8ug" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZ3U0YXd1LTItZGc&resourcekey=0-Hro6HqnD_uxsefq_L9x8ug" width="240" alt="1979 - M471C - 40 - St Pre-amp Layout.jpg"></a><br><sub>1979|12 · 40 - St Pre-amp Layout</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV1c2Tk5FdEZTVGc/view?resourcekey=0-m0aOr3oBwFVPn_Dqh3nsWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV1c2Tk5FdEZTVGc&resourcekey=0-m0aOr3oBwFVPn_Dqh3nsWQ" width="240" alt="19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R.jpg"></a><br><sub>19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSlFJRjBwUk1EN3c/view?resourcekey=0-ZwyYC2CJPVB5xryQYQp4Mg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSlFJRjBwUk1EN3c&resourcekey=0-ZwyYC2CJPVB5xryQYQp4Mg" width="240" alt="1979 - M471C - 26 - Layout.jpg"></a><br><sub>1979|12 · 26 - Layout · <a href="SCHEMATICS/1979%20-%20M471C%20-%2026%20-%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQXRYdDl2QTlWQzg/view?resourcekey=0-hBFZcT1kR5SPdYShpjE-bQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQXRYdDl2QTlWQzg&resourcekey=0-hBFZcT1kR5SPdYShpjE-bQ" width="240" alt="1979 - M471C - 27 - Functional Diagram.jpg"></a><br><sub>1979|12 · 27 - Functional Diagram · <a href="SCHEMATICS/1979%20-%20M471C%20-%2027%20-%20Functional%20Diagram%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKU3hhQ0hBMk5jajQ/view?resourcekey=0-xcmWCFFKtHmIJ38JbR0-Ew" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKU3hhQ0hBMk5jajQ&resourcekey=0-xcmWCFFKtHmIJ38JbR0-Ew" width="240" alt="1979 - M471C - 28 - Schematic.jpg"></a><br><sub>1979|12 · 28 - Schematic · <a href="SCHEMATICS/1979%20-%20M471C%20-%2028%20-%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZU9VSm5sUXRuU1E/view?resourcekey=0-lja9k5Grrat-np3DxhkuaA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZU9VSm5sUXRuU1E&resourcekey=0-lja9k5Grrat-np3DxhkuaA" width="240" alt="1979 - M471C - 29 - Layout.jpg"></a><br><sub>1979|12 · 29 - Layout · <a href="SCHEMATICS/1979%20-%20M471C%20-%2029%20-%20Layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWkhRX0xtbkV2b3c/view?resourcekey=0-RUgPwNTNLdlN0VkUujgKbQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWkhRX0xtbkV2b3c&resourcekey=0-RUgPwNTNLdlN0VkUujgKbQ" width="240" alt="1979 - M471C - 39 - St Pre-amp Schematic.jpg"></a><br><sub>1979|12 · 39 - St Pre-amp Schematic · <a href="SCHEMATICS/1979%20-%20M471C%20-%2039%20-%20St%20Pre-amp%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZ3U0YXd1LTItZGc/view?resourcekey=0-Hro6HqnD_uxsefq_L9x8ug" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZ3U0YXd1LTItZGc&resourcekey=0-Hro6HqnD_uxsefq_L9x8ug" width="240" alt="1979 - M471C - 40 - St Pre-amp Layout.jpg"></a><br><sub>1979|12 · 40 - St Pre-amp Layout · <a href="SCHEMATICS/1979%20-%20M471C%20-%2040%20-%20St%20Pre-amp%20Layout%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV1c2Tk5FdEZTVGc/view?resourcekey=0-m0aOr3oBwFVPn_Dqh3nsWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV1c2Tk5FdEZTVGc&resourcekey=0-m0aOr3oBwFVPn_Dqh3nsWQ" width="240" alt="19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R.jpg"></a><br><sub>19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R · <a href="SCHEMATICS/19xx%20-%20M471C%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P014%20-%20B471-01-004%20R%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1.jpg`, `M471C - 29 - Layout.jpg`, `M471C - 39 - St Pre-amp Schematic.jpg`
+Not on Google Drive yet: `19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1.jpg`, `M471C - 39 - St Pre-amp Schematic.jpg`
 
 ## Pinouts
 
@@ -128,13 +120,23 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
+- [1979 - M471C - 27 - Functional Diagram.kicad_sch](KICAD/1979%20-%20M471C%20-%2027%20-%20Functional%20Diagram.kicad_sch)
+- [1979 - M471C - 28 - Schematic.kicad_sch](KICAD/1979%20-%20M471C%20-%2028%20-%20Schematic.kicad_sch)
+- [1979 - M471C - 39 - St Pre-amp Schematic.kicad_sch](KICAD/1979%20-%20M471C%20-%2039%20-%20St%20Pre-amp%20Schematic.kicad_sch)
 - [1979 - M471C - Stereo Input Module p28.kicad_sch](KICAD/1979%20-%20M471C%20-%20Stereo%20Input%20Module%20p28.kicad_sch)
 - [1979 - M471C - Stereo Input Module p39.kicad_sch](KICAD/1979%20-%20M471C%20-%20Stereo%20Input%20Module%20p39.kicad_sch)
 - [1985 - M471C - Stereo Input Module p27.kicad_sch](KICAD/1985%20-%20M471C%20-%20Stereo%20Input%20Module%20p27.kicad_sch)
 - [1985 - M471C - Stereo Input Module p28.kicad_sch](KICAD/1985%20-%20M471C%20-%20Stereo%20Input%20Module%20p28.kicad_sch)
 - [1985 - M471C - Stereo Input Module p39.kicad_sch](KICAD/1985%20-%20M471C%20-%20Stereo%20Input%20Module%20p39.kicad_sch)
 - [19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%202042-02-001%20-%20K2042S%201%20AND%20K2042S%202%20INPUT%20AND%20EQUALIZER%20SCHEMATIC%20-%20ISS%201.kicad_sch)
+- [19xx - M471C - DOC - STEREO L SERIES - P014 - B471-01-004 R.kicad_sch](KICAD/19xx%20-%20M471C%20-%20DOC%20-%20STEREO%20L%20SERIES%20-%20P014%20-%20B471-01-004%20R.kicad_sch)
+- [M471C - 39 - St Pre-amp Schematic.kicad_sch](KICAD/M471C%20-%2039%20-%20St%20Pre-amp%20Schematic.kicad_sch)
 - [M471C.kicad_sym](KICAD/M471C.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
