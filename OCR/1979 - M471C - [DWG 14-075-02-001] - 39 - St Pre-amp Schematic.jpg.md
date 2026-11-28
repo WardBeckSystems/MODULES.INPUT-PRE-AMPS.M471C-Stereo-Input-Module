@@ -23,7 +23,7 @@ Wiki page: [M471C](../../../../PAGES/M471C.md)
 - **Title block:** (330, 31)–(432, 49) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 127 connected wire groups from 908 runs; labelled ends: 168 mm → 'J3/10; 104 mm → 47/15; 97 mm → 365, 0 i00; 81 mm → 47/15; 58 mm → 365, 0 i00
 
-Every curve, box, word and wire group: [1979 - M471C - 39 - St Pre-amp Schematic (traced).json](../SCHEMATICS/1979%20-%20M471C%20-%2039%20-%20St%20Pre-amp%20Schematic%20%28traced%29.json) (the CAD file: `1979 - M471C - 39 - St Pre-amp Schematic (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M471C - [DWG 14-075-02-001] - 39 - St Pre-amp Schematic (traced).json](../SCHEMATICS/1979%20-%20M471C%20-%20%5BDWG%2014-075-02-001%5D%20-%2039%20-%20St%20Pre-amp%20Schematic%20%28traced%29.json) (the CAD file: `1979 - M471C - [DWG 14-075-02-001] - 39 - St Pre-amp Schematic (traced).dxf`).
 
 ## Full text
 
@@ -305,7 +305,7 @@ NOIES:
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - 39 - St Pre-amp Schematic.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M471C/SCHEMATICS/1979 - M471C - [DWG 14-075-02-001] - 39 - St Pre-amp Schematic.jpg",
  "sha256": "6260be3d57125a530a236f780176449378a78978cbfc587ce174340a4ad26c73",
  "kind": "module",
  "models": [
