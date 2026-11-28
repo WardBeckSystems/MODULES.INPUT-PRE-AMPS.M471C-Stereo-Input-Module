@@ -1,5 +1,5 @@
 # M471C - 39 - St Pre-amp Schematic.jpg
-Wiki page: [M471C](../../../../PAGES/M471C.md)
+Wiki page: [M471C](../)
 
 
 - **Year:** unknown (title block (read by eye))

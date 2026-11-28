@@ -1,5 +1,5 @@
 # 1985 - M471C - Stereo Input Module.pdf
-Wiki page: [M471C](../../../../PAGES/M471C.md)
+Wiki page: [M471C](../)
 
 
 - **Year:** 1985 (found in this file: "Issue #1 May 1985")

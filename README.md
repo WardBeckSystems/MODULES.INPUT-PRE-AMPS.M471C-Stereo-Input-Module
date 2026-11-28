@@ -1,6 +1,6 @@
 # M471C Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M471C, 1979|12. Wiki page: [M471C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M471C.html)
+Ward-Beck Systems M471C, 1979|12. Wiki page: [M471C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471C-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

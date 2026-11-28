@@ -1,5 +1,5 @@
 # 1979 - M471C - 27 - Functional Diagram.jpg
-Wiki page: [M471C](../../../../PAGES/M471C.md)
+Wiki page: [M471C](../)
 
 
 - **Year:** 1979 (module estimate (labelled))

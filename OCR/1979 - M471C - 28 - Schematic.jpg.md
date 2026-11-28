@@ -1,5 +1,5 @@
 # 1979 - M471C - 28 - Schematic.jpg
-Wiki page: [M471C](../../../../PAGES/M471C.md)
+Wiki page: [M471C](../)
 
 
 - **Year:** 1979 (found in this file: "ISS.1 10/79")

@@ -1,5 +1,5 @@
 # 19xx - 2042-02-001 - K2042S 1 AND K2042S 2 INPUT AND EQUALIZER SCHEMATIC - ISS 1.jpg
-Wiki page: [M471C](../../../../PAGES/M471C.md)
+Wiki page: [M471C](../)
 
 
 - **Year:** unknown (title block (read by eye))
